@@ -1,0 +1,3 @@
+rootProject.name = 'campo_Minado'
+
+include ':app'
